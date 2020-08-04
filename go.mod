@@ -1,3 +1,3 @@
-module github.com/containous/plugindemo
+module mikezhang0/traefik-plugin-mkz
 
-go 1.14
+go 1.13
